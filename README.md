@@ -15,7 +15,7 @@ Current version: Release version 0.3 (07-2016) --- lowRISC with a trace debugger
 To download the repo:
 
 ~~~shell
-git clone -b debug-v0.3 https://github.com/lowrisc/lowrisc-chip.git
+git clone -b debug-v0.3 https://github.com/nguyenhuydong1998/lowrisc-chip/tree/debug-v0.3
 cd lowrisc-chip
 git submodule update --init --recursive
 ~~~
