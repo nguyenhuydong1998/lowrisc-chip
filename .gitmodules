@@ -30,7 +30,7 @@
 	url = https://github.com/nguyenhuydong1998/osd-hw.git
 [submodule "opensocdebug/glip"]
 	path = opensocdebug/glip
-	url = https://github.com/tum-lis/glip
+	url = https://github.com/nguyenhuydong1998/glip.git
 [submodule "opensocdebug/software"]
 	path = opensocdebug/software
 	url = https://github.com/opensocdebug/software
