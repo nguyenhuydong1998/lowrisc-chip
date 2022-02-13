@@ -18,7 +18,7 @@
 	url = https://github.com/lowrisc/uncore.git
 [submodule "socip"]
 	path = socip
-	url = https://github.com/lowrisc/socip.git
+	url = https://github.com/nguyenhuydong1998/socip.git
 [submodule "junctions"]
 	path = junctions
 	url = https://github.com/lowrisc/junctions.git
@@ -27,7 +27,7 @@
 	url = https://github.com/lowrisc/context-dependent-environments.git
 [submodule "opensocdebug/hardware"]
 	path = opensocdebug/hardware
-	url = https://github.com/opensocdebug/hardware
+	url = https://github.com/nguyenhuydong1998/osd-hw.git
 [submodule "opensocdebug/glip"]
 	path = opensocdebug/glip
 	url = https://github.com/tum-lis/glip
